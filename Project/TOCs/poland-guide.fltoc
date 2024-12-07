@@ -3,9 +3,20 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/Guide/Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+    PageType="title"
+    PageNumberReset="continue"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/Guide/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.PrintOnly"
-    StartSection="false" />
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberReset="continue" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Guide/TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

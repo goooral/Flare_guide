@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/table-styles/GalleryTable.css" />
+    <Link
+      Url="https://www.katowice.eu/" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image1.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image2.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image3.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image4.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/table-styles/GalleryTable.css" />
+    <Link
+      Url="https://www.katowice.eu/" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image1.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image2.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image3.jpg" />
+    <Link
+      Url="Content/Resources/Images/guide-images/image4.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/table-styles/GalleryTable.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

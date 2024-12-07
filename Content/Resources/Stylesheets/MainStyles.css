@@ -135,3 +135,32 @@ h1.notInTOC
 	}
 }
 
+p.blue
+{
+	color: #221eff;
+}
+
+h2.h2_orange
+{
+	color: #ff781f;
+	font-weight: bold;
+}
+
+div.div_lgray
+{
+	background-color: #c0c0c0;
+}
+
+span.span_ulred
+{
+	color: #bc0606;
+	text-decoration: underline;
+}
+
+MadCap|xref.Greenref
+{
+	mc-format: '{b}{color green}xref{/color}{/b}';
+	color: #22670f;
+	font-weight: bold;
+}
+

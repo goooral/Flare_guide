@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Default.css" />
+    <Link
+      Url="Content/C_Procedure Topics/Procedure3.htm" />
+    <Link
+      Url="Content/B_Feature Topics/fantastic-feature.htm" />
+    <Link
+      Url="Content/Resources/Images/my-document/interface-screenshot.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Default.css" />
+    <Link
+      Url="Content/C_Procedure Topics/Procedure3.htm" />
+    <Link
+      Url="Content/B_Feature Topics/fantastic-feature.htm" />
+    <Link
+      Url="Content/Resources/Images/my-document/interface-screenshot.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Default.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,1 @@
+define({'attraction':{d:'place to visit',l:''},'city':{d:'A big town.',l:''},'hotel':{d:'place to sleep in',l:''}});

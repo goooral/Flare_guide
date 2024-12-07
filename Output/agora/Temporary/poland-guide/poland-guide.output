@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/agora/poland-guide/poland-guide.pdf"
+  BuildVersion="20.1.9037.40627">
+  <Files>
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Zdój_1.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Warsaw-photo.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/image2.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/karpacz-tama.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/1280px-Konstancin-Jeziorna-Papiernia-2007.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Gdansk.JPG" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/mapa-szczawno-zdroj.png" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/fishtransparent.png" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/image1.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/sanok.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/image4.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/view.png" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/lanckorona.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Warszawa_Rynek2.png" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/table-styles/basic table.css" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Image_MB.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/table-styles/Highlight.css" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/table-styles/TableStyle_MB.css" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/image3.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/Default.css" />
+    <Url
+      Source="Output/agora/poland-guide/poland-guide.pdf" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Jarmark.jpg" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/table-styles/GalleryTable.css" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Stylesheets/table-styles/NewStyle.css" />
+    <Url
+      Source="Output/agora/Temporary/poland-guide/poland-guide_29A4645C/Resources/Images/guide-images/Lubusz.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

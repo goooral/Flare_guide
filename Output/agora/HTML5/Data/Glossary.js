@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'attraction',c:0},{t:'city',c:0},{t:'hotel',c:0}]});

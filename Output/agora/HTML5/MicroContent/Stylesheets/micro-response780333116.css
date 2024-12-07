@@ -1,0 +1,168 @@
+/*<meta />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+.micro-response780333116
+{
+	font-family: Arial;
+}
+
+.micro-response780333116 h1
+{
+	font-weight: bold;
+	font-size: 24.0pt;
+	color: #5a4fc1;
+}
+
+.micro-response780333116 h2
+{
+	font-weight: bold;
+	font-size: 18.0pt;
+}
+
+.micro-response780333116 h3
+{
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+.micro-response780333116 h4
+{
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+.micro-response780333116 h5
+{
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+.micro-response780333116 h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+}
+
+.micro-response780333116 p
+{
+	font-size: 12.0pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+.micro-response780333116 ol,
+.micro-response780333116 ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.micro-response780333116 img
+{
+	border: none;
+}
+
+.micro-response780333116 MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+.micro-response780333116 MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+.micro-response780333116 MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+.micro-response780333116 .body-container
+{
+	padding-top: 2em;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+/*== Other topics header bar styles ==*/
+
+.micro-response780333116 .title-bar-container
+{
+	box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	/*adds the shadow effect to the header*/
+}
+
+/*== madcap proxy assigned styles ==*/
+
+.micro-response780333116 MadCap|breadcrumbsProxy
+{
+	border-bottom-width: 0;
+	color: #888888;
+}
+
+@media only screen and (max-width: 1279px)
+{
+	.micro-response780333116 .body-container
+	{
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+}
+
+.micro-response780333116 span.bold
+{
+	font-weight: bold;
+}
+
+.micro-response780333116 h1.notInTOC
+{
+	mc-auto-number-class: none;
+	mc-heading-level: 0;
+}
+
+@media print
+{
+	.micro-response780333116 h1
+	{
+		mc-auto-number-format: 'GH: {n+}. ';
+	}
+}
+
+.micro-response780333116 p.blue
+{
+	color: #221eff;
+}
+
+.micro-response780333116 h2.h2_orange
+{
+	color: #ff781f;
+	font-weight: bold;
+}
+
+.micro-response780333116 div.div_lgray
+{
+	background-color: #c0c0c0;
+}
+
+.micro-response780333116 span.span_ulred
+{
+	color: #bc0606;
+	text-decoration: underline;
+}
+
+.micro-response780333116 MadCap|xref.Greenref
+{
+	mc-format: '{b}{color green}xref{/color}{/b}';
+	color: #22670f;
+	font-weight: bold;
+}
+
