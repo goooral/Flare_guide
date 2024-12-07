@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/Users/agora/Documents/TechW/GitHub/Flare_guide/Vistula-Solana-24 list 2024/Output/agora/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="Procedure"
+      glossTerm="Glossary.Term0"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A series of steps.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Company"
+      glossTerm="Glossary.Term1"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">A business entity.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="general"
+      glossTerm="Glossary.Term2"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">high-level</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="content"
+      glossTerm="Glossary.Term3"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">text and other stuff</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="city"
+      glossTerm="PolandGuideGlossary.Term0"
+      SourceFile="/Project/Glossaries/PolandGuideGlossary.flglo">
+      <Definition
+        Link="">A big town.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="attraction"
+      glossTerm="PolandGuideGlossary.Term1"
+      SourceFile="/Project/Glossaries/PolandGuideGlossary.flglo">
+      <Definition
+        Link="">place to visit</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="hotel"
+      glossTerm="PolandGuideGlossary.Term2"
+      SourceFile="/Project/Glossaries/PolandGuideGlossary.flglo">
+      <Definition
+        Link="">place to sleep in</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls />
+</CatapultGlobalGlossaryCache>

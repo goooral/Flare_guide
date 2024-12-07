@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Vistula-Flare\Solana-01\Solana-01\Content\B_Feature Topics\Feature2.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Vistula-Flare\Solana-01\Solana-01\Content\Resources\Images\guide-images\Karpacz Tama Łomnica.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Vistula-Flare\Solana-01\Solana-01\Content\C_Procedure Topics\Procedure3.htm" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Vistula-Flare\Solana-01\Solana-01\Content\Resources\Snippets\template-top-places.flsnp" />
+    </Dialog>
+</RecentLinks>
